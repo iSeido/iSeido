@@ -21,7 +21,7 @@ I'm a Sudanese IT Support Specialist based in Saudi Arabia, passionate about sol
 **Operating Systems**  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0078D6?style=flat&logo=windows&logoColor=white)
 
 **Networking**  
 `TCP/IP` • `DNS` • `DHCP` • `LAN/WAN` • `Routers` • `Network Security`
@@ -147,7 +147,7 @@ Documentation and workflows for leveraging AI tools in technical support.
 💬 Languages: Arabic (Native), English (Intermediate)
 🎯 Specialization: AI-powered IT support solutions
 🔧 Daily Tools: Windows Server, ChatGPT, Claude, Microsoft 365
-☕ Problem Solver: Reduced avg troubleshooting from 45min → 29min
+☕ Problem Solver: Reduced avg troubleshooting from 45min to 29min
 🌍 Experience: Retail, Catering, Private Sectors in Saudi Arabia
 ```
 
@@ -168,9 +168,9 @@ I'm always interested in:
 
 <div align="center">
 
-### 💭 *"Technology is best when it brings people together."*
+### 💭 *"Simplictiy is the soul of efficency."*
 
-**⭐ If you find my work helpful, consider giving a star to my repositories!**
+**⭐ If you find my work helpful man which I hope, consider giving a star to my repositories!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iSeido&color=blue&style=flat-square)
 
@@ -181,7 +181,7 @@ I'm always interested in:
 ### 📝 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
-*Coming soon: Technical guides, troubleshooting tips, and IT best practices*
+*When Dreams Become Cinema*
 <!-- BLOG-POST-LIST:END -->
 
 ---
