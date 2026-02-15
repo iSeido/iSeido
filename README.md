@@ -21,6 +21,7 @@ I'm a Sudanese IT Support Specialist based in Saudi Arabia, passionate about sol
 **Operating Systems**  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 
 **Networking**  
 `TCP/IP` • `DNS` • `DHCP` • `LAN/WAN` • `Routers` • `Network Security`
