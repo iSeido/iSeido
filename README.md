@@ -71,23 +71,19 @@ I'm a Sudanese IT Support Specialist based in Saudi Arabia, passionate about sol
 
 ### 🚀 Current Focus
 
-```javascript
-const currentStatus = {
-  role: "Freelance IT Support Specialist",
-  location: "Jeddah, Saudi Arabia",
-  focus: [
-    "Serving private clients with 98% satisfaction",
-    "AI-powered troubleshooting optimization",
-    "Network security implementations",
-    "Completing Computer Science degree"
-  ],
-  learning: [
-    "Advanced PowerShell scripting",
-    "Python for IT automation",
-    "Cloud computing fundamentals"
-  ]
-};
-```
+- 💼 **Role**: Freelance IT Support Specialist
+- 📍 **Location**: Jeddah, Saudi Arabia
+
+**What I'm Working On:**
+- ✨ Serving private clients with 98% satisfaction rating
+- 🤖 AI-powered troubleshooting optimization
+- 🔐 Network security implementations
+- 🎓 Completing Computer Science degree (Expected 2028)
+
+**Currently Learning:**
+- ⚡ Advanced PowerShell scripting
+- 🐍 Python for IT automation
+- ☁️ Cloud computing fundamentals
 
 ---
 
