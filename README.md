@@ -152,13 +152,6 @@ Documentation and workflows for leveraging AI tools in technical support.
 
 ---
 
-### 📊 GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iSeido&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iSeido&layout=compact&theme=radical&hide_border=true)
-
----
 
 ### 🤝 Open to Opportunities
 
