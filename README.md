@@ -16,8 +16,6 @@
   - Active Directory & Microsoft 365
   - Network troubleshooting & management
   - POS systems & endpoint support
-
-  **Currently learning**
   - Python (scripting, automation, networking tools)
   - PowerShell
   - Cloud (Azure fundamentals)
